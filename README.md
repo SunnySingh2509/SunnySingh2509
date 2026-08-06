@@ -71,8 +71,6 @@ AI-powered appointment booking platform for clinics built with a scalable backen
 ## 📫 Connect
 
 - Email: **codewithsunnysingh@gmail.com**
-- LinkedIn: *(Add your LinkedIn URL here)*
-
 ---
 
 > *"Build systems that scale, not just code that works."*
