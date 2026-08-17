@@ -7,7 +7,7 @@ I build production-grade backend systems — from billing platforms to AI-integr
 </p>
 
 <p align="center">
-  <a href="mailto:codewithsunnysingh@://gmail.com">
+  <a href="mailto:codewithsunnysingh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <!-- Add your LinkedIn / portfolio links below -->
@@ -80,7 +80,7 @@ AI-powered appointment booking platform for clinics, built with a scalable backe
 
 ### 📫 Connect With Me
 
-- 📧 Email: (mailto:codewithsunnysingh@://gmail.com)
+- 📧 Email: mailto:codewithsunnysingh@gmail.com
 - 🐙 GitHub: https://github.com/SunnySingh2509
 
 ---
