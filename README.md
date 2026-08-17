@@ -80,7 +80,7 @@ AI-powered appointment booking platform for clinics, built with a scalable backe
 
 ### 📫 Connect With Me
 
-- 📧 Email: mailto:codewithsunnysingh@gmail.com
+- 📧 Email: codewithsunnysingh@gmail.com
 - 🐙 GitHub: https://github.com/SunnySingh2509
 
 ---
